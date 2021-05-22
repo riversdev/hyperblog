@@ -2,4 +2,7 @@ body{
     text-align: center;
     font-family: Arial;
     color: palevioletred;
+    padding: 20px;
+    margin: 50px;
+    background-color: powderblue;
 }
